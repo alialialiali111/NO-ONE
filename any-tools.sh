@@ -92,7 +92,7 @@ if [ $p -eq 5 ]; then
     chmod +x fsociety.py
     clear 
     bash install.sh
-    python fsociety.py
+    python2 fsociety.py
 
 fi
 if [ $p -eq 6 ]; then
